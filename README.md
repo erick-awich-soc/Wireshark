@@ -1,6 +1,6 @@
 # Wireshark Labs
 
-**PLEASE NOTE : OPEN FILE COMMIT DETAILS IN ORDER TO SEE A DETAILED DESCRIPTION OF EACH FILE**
+**PLEASE NOTE : OPEN FILE COMMIT DETAILS IN ORDER TO SEE A DETAILED DESCRIPTION OF EACH SCREENSHOT**
 
 ## Overview
 This repository documents my practical learning and hands-on labs using Wireshark, an open-source network protocol analyzer used to capture, inspect, and troubleshoot network traffic.
